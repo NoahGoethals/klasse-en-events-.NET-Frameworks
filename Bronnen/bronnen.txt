@@ -1,0 +1,17 @@
+Project: Bestelsysteem Boekwinkel (Console)
+Vak: Programmeren – Klassen en Events
+Student:Noah Goethals
+Datum: 10/03/2025
+
+Geraadpleegde bronnen
+=====================
+
+1) Cursusmateriaal / Theorie van de docent
+   - Titel: cursus .NET Frameworks
+
+2) Chatgpt
+   - URL: https://chat.openai.com/
+   - https://chatgpt.com/share/68dfa44e-e5bc-8009-a20b-b09767130950.
+   - https://chatgpt.com/share/68dfa6b8-d788-8009-a7bf-b701d835bcc9.
+   - https://chatgpt.com/share/68dfa7e8-408c-8009-b1e7-65b618ff88d9.
+   - https://chatgpt.com/share/68dfa8c1-58c0-8009-94cc-baed55926834
